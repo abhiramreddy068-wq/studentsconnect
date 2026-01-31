@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  AWS_REGION: eu-north-01
+  AWS_REGION: eu-north-1
   S3_BUCKET: "s3abhi2005"
 
 permissions:
